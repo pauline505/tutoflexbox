@@ -81,7 +81,7 @@ body{
 }
 .dialogue{
 	height:800px;
-	overflow: overlay;
+	overflow: auto;
 }
 form{
 	width:300px;
